@@ -1,0 +1,4 @@
+# 비밀값 파일
+.env
+.env.*
+!.env.example
